@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hi I'm Mark and I like using SQL and DAX.
